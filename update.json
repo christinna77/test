@@ -27,7 +27,7 @@
             "components": {
                 "SAMMI Core": {
                     "version": "2023.2.0.0",
-                    "sum": "7bb37a14659ed02976def2c9ce7673d9",
+                    "sum": "a899136aab3a1d1ef086cfb23bbe1f32",
                     "path": "",
                     "file": "SAMMI Core.exe"
                 },
