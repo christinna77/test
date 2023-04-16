@@ -1,0 +1,60 @@
+{
+    "versions": [
+        {
+            "version": "2023.1.1",
+            "components": {
+                "SAMMI Core": {
+                    "version": "2023.1.1.0",
+                    "sum": "202c23eaabc1faff63642357cde0b269",
+                    "path": "",
+                    "file": "SAMMI Core.exe"
+                },
+                "SAMMI Bridge": {
+                    "version": "7.13",
+                    "path": "bridge",
+                    "file": "default.txt"
+                },
+                "SAMMI Updater": {
+                    "version": "1.0.0.0",
+                    "sum": "3156906599",
+                    "path": "SAMMI Updater",
+                    "file": "SAMMI Updater.exe"
+                }
+            }
+        },
+        {
+            "version": "2023.2.0",
+            "components": {
+                "SAMMI Core": {
+                    "version": "2023.2.0.0",
+                    "sum": "7bb37a14659ed02976def2c9ce7673d9",
+                    "path": "",
+                    "file": "SAMMI Core.exe"
+                },
+                "SAMMI Voice": {
+                    "version": "1.0.0.0",
+                    "sum": "1ff334dd9953e0d88588bba74a8bf49d",
+                    "path": "SAMMI Voice",
+                    "file": "SAMMI Voice.exe"
+                },
+                "SAMMI Panel": {
+                    "version": "1.0.1",
+                    "sum": "5ea66f6b81633465b2f7771c9beb4279",
+                    "path": "SAMMI Panel",
+                    "file": "SAMMI Panel.exe"
+                },
+                "SAMMI Bridge": {
+                    "version": "7.14",
+                    "path": "bridge",
+                    "file": "default.txt"
+                },
+                "SAMMI Updater": {
+                    "version": "1.0.0.0",
+                    "sum": "3156906599",
+                    "path": "SAMMI Updater",
+                    "file": "SAMMI Updater.exe"
+                }
+            }
+        }
+    ]
+}
